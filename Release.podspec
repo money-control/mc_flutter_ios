@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "App"
   s.version      = "1.0.0"
-  s.summary      = "Remote Debug Appframework SDK for Flutter"
+  s.summary      = "Remote Release Appframework SDK for Flutter"
   s.homepage     = "https://github.com/money-control/mc_flutter_ios_release"
   s.license      = "MIT"
   s.author       = { "You" => "suryanarayan.sahu@nw18.com" }
