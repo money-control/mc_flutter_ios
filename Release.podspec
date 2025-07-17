@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "App"
+  s.name         = "App_Release"
   s.version      = "1.0.0"
   s.summary      = "Remote Release Appframework SDK for Flutter"
   s.homepage     = "https://github.com/money-control/mc_flutter_ios_release"
@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "15.0"
 
   s.source       = { :git => "https://github.com/money-control/mc_flutter_ios_release.git", :tag => "#{s.version}" }
-  s.vendored_frameworks = "App.xcframework"
+  s.vendored_frameworks = "App_Release.xcframework"
 end
 
