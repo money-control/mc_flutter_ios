@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MCDebugApp"
-  s.version      = "1.0.2"
+  s.version      = "1.0.4"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.summary      = "Debug Release Appframework SDK for Flutter"
   s.homepage     = "https://github.com/money-control/mc_flutter_ios_debug"
