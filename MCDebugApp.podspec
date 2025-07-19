@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
     :git => 'https://github.com/money-control/mc_flutter_ios_debug.git',
     :tag => '1.0.4'
   }
-  s.vendored_frameworks = "MCDebugApp.xcframework"
+  s.vendored_frameworks = "MCDebugApp/MCDebugApp.xcframework"
 end
 
