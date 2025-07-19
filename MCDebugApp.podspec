@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "15.0"
   s.source       = {
     :git => 'https://github.com/money-control/mc_flutter_ios_debug.git',
-    :tag => '1.0.2'
+    :tag => '1.0.4'
   }
   s.vendored_frameworks = "MCDebugApp/MCDebugApp.xcframework"
 end
