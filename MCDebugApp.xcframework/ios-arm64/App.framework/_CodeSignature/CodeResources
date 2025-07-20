@@ -1374,7 +1374,7 @@
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
+		Zvm4xe30E80jlRicAvB/e8mNBQE=
 		</data>
 		<key>flutter_assets/fonts/Rupee-Foradian.ttf</key>
 		<data>
@@ -1404,14 +1404,6 @@
 		<data>
 		CAFPNm5rWLC9HvT7Z+CS2mm5F1Y=
 		</data>
-		<key>flutter_assets/isolate_snapshot_data</key>
-		<data>
-		gRDbYzMNgtJeT9rLZDdiOJ0RXMg=
-		</data>
-		<key>flutter_assets/kernel_blob.bin</key>
-		<data>
-		Azx8K2UW7cZiCvgFCZma03pcXCw=
-		</data>
 		<key>flutter_assets/packages/fluttertoast/assets/toastify.css</key>
 		<data>
 		HVkEhoid+n6bwOYCwZg4DdmGBHY=
@@ -1423,10 +1415,6 @@
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
 		VoVnsu58hN7wrwazX0nyAopiB0Q=
-		</data>
-		<key>flutter_assets/vm_snapshot_data</key>
-		<data>
-		6f33nJbLQOxwLNQ7Pq7TZR9ENuo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -3822,7 +3810,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2YZbZxoJ1oPROoYwidiCXg9ho3aWzl19RIvIAjqmJFM=
+			aYFipR/sIlwwx/2tVOmk7GUokVPowugt4TSLlAZLu0g=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/Rupee-Foradian.ttf</key>
@@ -3874,20 +3862,6 @@
 			aX/hEmOjuwMEFFkYANMWxjMBoIftzwuorvlW9XbIDio=
 			</data>
 		</dict>
-		<key>flutter_assets/isolate_snapshot_data</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ut/uEhc6+hUf6S/IpyxQydpXSJV0AmyYEkKu13s4D6o=
-			</data>
-		</dict>
-		<key>flutter_assets/kernel_blob.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			srHhaMT6n/rep+d8ZqfqnJuOuuBZEFaTYu0sya3sYyY=
-			</data>
-		</dict>
 		<key>flutter_assets/packages/fluttertoast/assets/toastify.css</key>
 		<dict>
 			<key>hash2</key>
@@ -3907,13 +3881,6 @@
 			<key>hash2</key>
 			<data>
 			4PC1vOWKHlNOnW4dGwFfD4TPwBCllniPCsOy7+1X5co=
-			</data>
-		</dict>
-		<key>flutter_assets/vm_snapshot_data</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EkAQI7At/OAUaTSQUy3t6/4PpHWrvbPs+YdJHmzJ978=
 			</data>
 		</dict>
 	</dict>
